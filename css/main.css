@@ -1,0 +1,131 @@
+body{
+ background-color: burlywood;
+}
+
+.grid-container{
+ display: grid;
+ grid-gap: 10px;
+ grid-template-columns: 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr 0.5fr;
+ grid-template-rows: 50px 50px 50px;
+ margin: auto;
+ }
+ .grid-item1{
+ background: #fff;
+ padding: 7px;
+ border-radius: 8px;
+ }
+ .grid-item2{
+  background: #fff;
+  padding: 7px;
+  border-radius: 8px;
+  }
+  .grid-item3{
+   background: #fff;
+   padding: 7px;
+   border-radius: 8px;
+   }
+   .grid-item4{
+    background: #fff;
+    padding: 7px;
+    border-radius: 8px;
+    }
+    .grid-item5{
+     background: #fff;
+     padding: 7px;
+     border-radius: 8px;
+     }
+     .grid-item6{
+      background: #fff;
+      padding: 7px;
+      border-radius: 8px;
+      }
+      .grid-item7{
+       background: #fff;
+       padding: 7px;
+       border-radius: 8px;
+       }
+       .grid-item8{
+        background: #fff;
+        padding: 7px;
+        border-radius: 8px;
+        }
+        .grid-item9{
+         background: #fff;
+         padding: 7px;
+         border-radius: 8px;
+         }
+         .grid-item10{
+          background: #fff;
+          padding: 7px;
+          border-radius: 8px;
+          }
+          .grid-item11{
+           background: #fff;
+           padding: 7px;
+           border-radius: 8px;
+           }
+           .grid-item12{
+            background: #fff;
+            padding: 7px;
+            border-radius: 8px;
+            }
+            .grid-item13{
+             background: #fff;
+             padding: 7px;
+             border-radius: 8px;
+             }
+             .grid-item14{
+              background: #fff;
+              padding: 7px;
+              border-radius: 8px;
+              }
+              .grid-item15{
+               background: #fff;
+               padding: 7px;
+               border-radius: 8px;
+               }
+               .grid-item16{
+                background: #fff;
+                padding: 7px;
+                border-radius: 8px;
+                }
+                .grid-item17{
+                 background: #fff;
+                 padding: 7px;
+                 border-radius: 8px;
+                 }
+                 .grid-item18{
+                  background: #fff;
+                  padding: 7px;
+                  border-radius: 8px;
+                  }
+                  .grid-item19{
+                   background: #fff;
+                   padding: 7px;
+                   border-radius: 8px;
+                   }
+                   .grid-item20{
+                    background: #fff;
+                    padding: 7px;
+                    border-radius: 8px;
+                    }
+                    .grid-item21{
+                     background: #fff;
+                     padding: 7px;
+                     border-radius: 8px;
+                     }
+                     .grid-item22{
+                      background: #fff;
+                      padding: 7px;
+                      border-radius: 8px;
+                      }
+                      .grid-item23{
+                       background: #fff;
+                       padding: 7px;
+                       border-radius: 8px;
+                       }
+                       .grid-item24{
+                        background: #fff;
+                        padding: 7px;
+                        border-radius: 8px;
+                        }
